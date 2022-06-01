@@ -21,7 +21,7 @@
         "minLength": 1
       },
       "number": {
-        "type": "array",
+        "type": "string",
         "pattern": "^•• \\d{4}$"
       },
       "balance": {
